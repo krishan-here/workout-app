@@ -4,4 +4,4 @@
 - Can store images so that user can understand good posture.
 
 
-I am going to use React-native to build this app.
+I am going to use React-native to build this app. I am planning to make this without backend.
