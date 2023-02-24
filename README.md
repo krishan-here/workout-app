@@ -5,3 +5,5 @@
 
 
 I am going to use React-native to build this app. I am planning to make this without backend.
+
+I am learning React-native. so let's see when we start working on it.
