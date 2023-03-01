@@ -10,3 +10,4 @@ I am learning React-native. so let's see when we start working on it. I have bui
 
 Steps to follow this app:
 1. Build some basic ui.
+2. planning to track workout routine.
